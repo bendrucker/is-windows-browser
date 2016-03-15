@@ -1,7 +1,7 @@
 {
   "name": "is-windows-browser",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect Windows browsers",
   "license": "MIT",
   "repository": "bendrucker/is-windows-browser",
