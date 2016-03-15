@@ -1,0 +1,32 @@
+{
+  "name": "is-windows-browser",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Detect Windows browsers",
+  "license": "MIT",
+  "repository": "bendrucker/is-windows-browser",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "windows",
+    "browser",
+    "web"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.4",
+    "standard": "^6.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0"
+  }
+}
